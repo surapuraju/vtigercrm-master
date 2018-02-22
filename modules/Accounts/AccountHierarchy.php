@@ -7,6 +7,7 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  ************************************************************************************/
+ 
 require_once('include/utils/utils.php');
 
 global $app_strings, $default_charset, $currentModule, $current_user, $theme;
